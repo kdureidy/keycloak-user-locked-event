@@ -13,7 +13,7 @@ Steps:
 
 1. Build the project and generate a jar file
 `mvn clean install`
-2. copy generated jar files from `./target/file-name.jar` to `{KEYCLOAK-HOME}/standalone/deployments`
+2. copy generated jar file from `./target/file-name.jar` to `{KEYCLOAK-HOME}/standalone/deployments`
 3. Enable Keycloak events:
 
     a. Login to Keycloak<br>
